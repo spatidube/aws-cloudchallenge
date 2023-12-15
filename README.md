@@ -1,6 +1,7 @@
 # My Cloud Resume Challenge
 
-Welcome to my Cloud Resume Challenge project! This is an exciting journey where I showcase my skills in web development, cloud computing, and infrastructure as code. Let's dive into the details:
+Welcome to my Cloud Resume Challenge project! 
+This project represents my endeavor to tackle the Cloud Resume Challenge within the AWS environment.This is an exciting journey where I showcase my skills in web development, cloud computing, and infrastructure as code. But what exactly is the Cloud Resume Challenge? It is a comprehensive resume project comprising multiple steps, strategically designed to develop and showcase essential skills crucial for a career in Cloud computing. The initiative was introduced by Forrest Brazeal. Let's dive into the details:
 
 ## Overview
 
