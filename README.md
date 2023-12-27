@@ -9,7 +9,7 @@ This project represents my endeavor to tackle the Cloud Resume Challenge within 
 
 In this project, I've built a personalized resume website and hosted it using cloud services. Here's what you'll find:
 
-1.** Resume Website:**
+1.**Resume Website:**
    - I've crafted a unique and interactive resume website using HTML, CSS, and JavaScript. It's designed to reflect my skills, experience, and personality.
 
 2. **Cloud Hosting:**
