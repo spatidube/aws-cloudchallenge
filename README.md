@@ -5,7 +5,7 @@ This project represents my endeavor to tackle the Cloud Resume Challenge within 
 
 ## Overview
 
-<img width="225" alt="image" src="https://github.com/spatidube/aws-cloudchallenge/assets/81442025/81296b55-2d71-45fa-b67e-b574651fc44f">
+<img width="400" alt="image" src="https://github.com/spatidube/aws-cloudchallenge/assets/81442025/81296b55-2d71-45fa-b67e-b574651fc44f">
 
 In this project, I've built a personalized resume website and hosted it using cloud services. Here's what you'll find:
 
