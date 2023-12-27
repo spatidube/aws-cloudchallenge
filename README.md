@@ -9,16 +9,16 @@ This project represents my endeavor to tackle the Cloud Resume Challenge within 
 
 In this project, I've built a personalized resume website and hosted it using cloud services. Here's what you'll find:
 
-1. **Resume Website:**
+1. Resume Website:
    - I've crafted a unique and interactive resume website using HTML, CSS, and JavaScript. It's designed to reflect my skills, experience, and personality.
 
-2. **Cloud Hosting:**
+2. Cloud Hosting:
    - The website is hosted on [AWS](https://aws.amazon.com/) to leverage the power and scalability of cloud infrastructure.
 
 3. **Infrastructure as Code (IaC):**
    - I've embraced the concept of Infrastructure as Code (IaC) with AWS CloudFormation. The entire cloud infrastructure is defined in code for easy management.
 
-4. **CI/CD Automation:**
+4. *CI/CD Automation:
    - Experience seamless updates with a Continuous Integration/Continuous Deployment (CI/CD) pipeline that automates the deployment process on every change.
 
 ## Getting Started
@@ -47,3 +47,6 @@ Have questions or just want to say hello? Reach out to me on [LinkedIn](https://
 - [AWS Free Tier](https://aws.amazon.com/free/)
 
 Thanks for stopping by my Cloud Resume Challenge project. Happy exploring!
+
+**title**= In progress
+*title= finishing soon
